@@ -14,7 +14,7 @@ Our meetups are dedicated to providing a harassment-free conference experience f
 
 Harassment includes offensive verbal or written comments related to sex, gender identity or expression, sexual orientation, disability, physical appearance, age, race, nationality, or religious beliefs, deliberate intimidation, threats, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is not appropriate for any Vuejs Kenya event or communication channel. Community members asked to stop any harassing behavior are expected to comply immediately.
 
-If a community member engages in harassing behavior, the Vuejs Kenya organizers may take any action they deem appropriate, including warning the offender, expulsion from the Vuejs Kenya community, and/or removal from an event. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an Vuejs Kenya organizer immediately, or as soon as you feel comfortable doing so.
+If a community member engages in harassing behavior, the Vuejs Kenya organizers may take any action they deem appropriate, including warning the offender, expulsion from the Vuejs Kenya community, and/or removal from an event. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact any Vuejs Kenya organizer immediately, or as soon as you feel comfortable doing so.
 
 ## Workshops
 
