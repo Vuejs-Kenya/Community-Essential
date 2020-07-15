@@ -1,5 +1,5 @@
 # Community-Essential
-# Code Of Conduct
+
 # Code of Conduct
 
 Vuejs Kenya is dedicated to providing a harassment-free community for everyone, regardless of sex, gender identity or expression, sexual orientation, disability, physical appearance, age, race, nationality, or religious beliefs. We do not tolerate harassment of community members in any form. Participants violating these rules may be sanctioned or expelled from the community at the discretion of the Vuejs Kenya organizers.
